@@ -1,1 +1,1 @@
-A web-based temperature converter built with HTML, CSS, and JavaScript, designed to facilitate easy conversion between Celsius and Fahrenheit. The interface is simple and user-friendly, ensuring that users can quickly input values and receive accurate results.
+A web-based temperature converter built with HTML, CSS, and JavaScript, designed to facilitate easy conversion between Celsius and Fahrenheit. The interface is simple and user-friendly, ensuring that users can quickly input values and receive accurate results
